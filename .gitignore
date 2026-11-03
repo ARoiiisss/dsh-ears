@@ -1,0 +1,8 @@
+# 忽略运行产物
+captures/
+*.wav
+*.png
+__pycache__/
+*.pyc
+.venv/
+venv/
